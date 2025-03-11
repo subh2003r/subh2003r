@@ -1,12 +1,14 @@
 # 🌟 Subhankar Sah | AI Researcher & Developer
 
-🚀 Passionate about **Artificial Intelligence, NLP, Machine Learning, and Computer Vision** | M.Tech @ **IIT Patna**  
-🔍 Exploring AI applications in **Healthcare, Supply Chain, and Generative AI**  
-💡 Interested in **NLP, Deep Learning, Computer Vision, and AI-driven solutions**  
+🔥 **Innovator. Researcher. AI Enthusiast.**
+
+I am an AI researcher and developer with an insatiable curiosity for **Machine Learning, NLP, Computer Vision, and Generative AI**. With a strong technical foundation and a drive to push boundaries, I am on a mission to explore how AI can revolutionize **Healthcare, Supply Chain, and Automation**.
+
+From building **intelligent NLP models** to **developing AI-driven visual systems**, I thrive on tackling complex challenges and crafting impactful AI solutions. I am always excited about **leveraging cutting-edge technology** to solve real-world problems. Let's create the future of AI together! 🚀
 
 ---
 
-## 🛠️ Skills & Technologies  
+## 🛠️ Skills & Technologies
 
 ### 📌 **Programming Languages:**  
 <p align="center">
@@ -17,32 +19,23 @@
 </p>
 
 ### 📌 **Machine Learning & AI:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFAA00?style=for-the-badge&logo=huggingface&logoColor=white)  
-
----
-
-## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhankar-Sah&theme=radical" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Subhankar-Sah&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFAA00?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+</p>
+
+### 📌 **Other Tools & Technologies:**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## 🎨 Hobbies & Interests  
-
-- **🏥 Healthcare AI:** Exploring AI-driven medical diagnosis & patient care improvements  
-- **📦 Supply Chain Optimization:** Leveraging AI for logistics, forecasting, and automation  
-- **🖼️ Computer Vision:** Enhancing image recognition and automation through AI  
-- **🎨 Generative AI:** Creating and enhancing AI-generated content  
-- **📚 Reading:** Tech blogs, AI research papers, and science fiction  
-- **🌍 Travel:** Exploring new cultures and cuisines  
-
----
 
 ⭐ **If you like my work, consider giving a star to my repositories!** ⭐
-
